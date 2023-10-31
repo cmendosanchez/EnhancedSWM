@@ -1,0 +1,16741 @@
+# tree 1.0
+
+*BEGIN TREE hierarchy
+graph_syntax RoiArg
+
+*BEGIN TREE fold_name
+name LEFT
+
+*BEGIN TREE fold_name
+name INTRA
+
+*BEGIN TREE fold_name
+name FRONTAL
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-LOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-LOF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-LOF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Op
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-Op_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Op_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Or-Or_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Tr-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name PARIETAL
+
+*BEGIN TREE fold_name
+name lh_IP-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IC-IC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IC-IC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_4
+color 188 243 243
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_-3
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SM-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-SM_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-SM_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name OCCIPITAL
+
+*BEGIN TREE fold_name
+name lh_Cu-Cu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-Cu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-Cu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name TEMPORAL
+
+*BEGIN TREE fold_name
+name lh_B-B
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-B_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TT-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_TT-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INSULA
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INTER
+
+*BEGIN TREE fold_name
+name FRONTAL
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-Op
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-Op_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_-0
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Op
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LOF-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Or
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-Or_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Or_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LOF-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-RAC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-RAC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PrC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PC-SP_-0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-Or_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Tr
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Or-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Or-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_6
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-SF_1
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SF_3
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SF_-0
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RAC-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RAC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RAC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RAC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SF-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name PARIETAL
+
+*BEGIN TREE fold_name
+name lh_B-IP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-IP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IC-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PC-SP_-0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_6
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SM_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-PrCu_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrCu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SF-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SP-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name OCCIPITAL
+
+*BEGIN TREE fold_name
+name lh_Cu-Li
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Cu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name TEMPORAL
+
+*BEGIN TREE fold_name
+name lh_B-IP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-IP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-IT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IT-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-TPol
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_MT-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-ST_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-TPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-TT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-TT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-TT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INSULA
+
+*BEGIN TREE fold_name
+name lh_CMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name RIGHT
+
+*BEGIN TREE fold_name
+name INTRA
+
+*BEGIN TREE fold_name
+name FRONTAL
+
+*BEGIN TREE fold_name
+name rh_CMF-CMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CMF-CMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-CMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-LOF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LOF-LOF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-LOF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Op
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Or-Or_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Tr-Tr_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-Tr_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name PARIETAL
+
+*BEGIN TREE fold_name
+name rh_IP-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IC-IC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IC-IC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_4
+color 188 243 243
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_5
+color 190 21 216
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SM-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name OCCIPITAL
+
+*BEGIN TREE fold_name
+name rh_Cu-Cu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-Cu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-Cu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name TEMPORAL
+
+*BEGIN TREE fold_name
+name rh_B-B
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_B-B_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IT-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TT-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_TT-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INSULA
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INTER
+
+*BEGIN TREE fold_name
+name FRONTAL
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-Op
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CMF-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-Or
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-Or_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-Or_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LOF-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-RAC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-RAC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PrC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-Or_-0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Tr
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-Tr_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Tr_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Or-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Or-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Tr-PrC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_-0
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RAC-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RAC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RAC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RAC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name PARIETAL
+
+*BEGIN TREE fold_name
+name rh_B-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IC-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_-0
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SM_-0
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrCu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_SP-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name OCCIPITAL
+
+*BEGIN TREE fold_name
+name rh_Cu-Li
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Cu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name TEMPORAL
+
+*BEGIN TREE fold_name
+name rh_B-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_B-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_B-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Fu-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IT-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-TPol
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_MT-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-ST_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-TPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-TT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-TT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-TT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INSULA
+
+*BEGIN TREE fold_name
+name rh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name ALL
+
+*BEGIN TREE fold_name
+name INTRA
+
+*BEGIN TREE fold_name
+name FRONTAL
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-CMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-LOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-LOF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-LOF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Op
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-Op_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Op_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Or-Or_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Tr-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-PrC_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SF_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-CMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CMF-CMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-CMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-LOF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LOF-LOF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-LOF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Op
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Or-Or_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Tr-Tr_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-Tr_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-SF_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name PARIETAL
+
+*BEGIN TREE fold_name
+name lh_IP-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IC-IC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IC-IC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_4
+color 188 243 243
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PoC_-3
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SP_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SM-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-SM_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-SM_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IC-IC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IC-IC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_4
+color 188 243 243
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PoC_5
+color 190 21 216
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SP_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SM-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name OCCIPITAL
+
+*BEGIN TREE fold_name
+name lh_Cu-Cu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-Cu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-Cu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-LO_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-Cu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-Cu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-Cu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-LO_4
+color 188 243 243
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name TEMPORAL
+
+*BEGIN TREE fold_name
+name lh_B-B
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-B_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Fu_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-ST_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TT-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_TT-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-B
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_B-B_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Fu_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IT-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-ST_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TT-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_TT-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INSULA
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INTER
+
+*BEGIN TREE fold_name
+name FRONTAL
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-Op
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-Op_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-PrC_-0
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Op
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LOF-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Or
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-Or_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Or_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LOF-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-RAC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-RAC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PrC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PC-SP_-0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-Or_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-Tr
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Or-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Or-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_6
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-SF_1
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SF_3
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SF_-0
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RAC-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RAC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RAC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RAC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SF-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-Op
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CMF-Op_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-MOF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-MOF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-Or
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-Or_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-Or_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LOF-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-RAC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-RAC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PrC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PrC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Or
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-Or_-0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Tr
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-Tr_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-Tr_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PrC_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-Tr
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Or-Tr_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Or-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-RMF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Tr-PrC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-RMF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_-0
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-RMF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SF_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RAC-RMF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RAC-RMF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RAC-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RAC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-SF_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-SF_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-FPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-FPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name PARIETAL
+
+*BEGIN TREE fold_name
+name lh_B-IP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-IP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IC-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PC-SP_-0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Op-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-PrC_6
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-SM_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-PrCu_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoCi-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoCi-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrCu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrCu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SF-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SP-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_CAC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_CMF-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-PoC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SP_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SP_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IC-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PoCi_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-PoC
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Op-PoC_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_3
+color 255 255 20
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_4
+color 188 243 243
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_5
+color 190 21 216
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-PrC_-0
+color 179 147 47
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SF
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-SF_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-SM_-0
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SF_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoCi-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoCi-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrCu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrCu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_SP-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name OCCIPITAL
+
+*BEGIN TREE fold_name
+name lh_Cu-Li
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Cu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-PrCu_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-Li_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-Li
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Cu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-PrCu_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Cu-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-LO_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-Li_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LO-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-PeCa_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PeCa_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Li-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Li-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Li-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-PrCu_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PeCa-SP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name TEMPORAL
+
+*BEGIN TREE fold_name
+name lh_B-IP
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-IP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-IT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_B-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_B-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IT-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-SM_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-TPol
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_IT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_MT-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-ST_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-TPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-TT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-TT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-TT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_B-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-MT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_B-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_B-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_B-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IP_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Fu-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-IT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-LO_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-Li_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-PeCa_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Fu-SP
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Fu-SP_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-IT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-IT_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IP-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-MT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IP-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IP-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-LO
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_IT-LO_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IT-MT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT_2
+color 0 0 200
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-MT_3
+color 255 255 20
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IT-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_IT-TPol
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_IT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LO-MT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_LO-MT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MOF-ST
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MOF-ST_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-ST
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_MT-ST_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-ST_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-ST_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-TPol
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-TPol_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-TT_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_ST-SM_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-SM_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-TT
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-TT_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-TT_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-TT_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-TT
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_SM-TT_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name INSULA
+
+*BEGIN TREE fold_name
+name lh_CMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_CMF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_IT-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_IT-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_LOF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_LOF-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_Tr-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_Tr-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_PrC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_RMF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_RMF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SF-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SF-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name lh_SM-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name lh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name lh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name lh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_LOF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_LOF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_MT-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_MT-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_Op-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Op-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Or-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Or-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_Tr-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_Tr-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PoC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PoC-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PoC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_PrC-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_PrC-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_PrC-In_-0
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_RMF-In_-1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SF-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SF-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SP-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SP-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_ST-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_1
+color 0 255 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_ST-In_2
+color 0 0 200
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_SM-In_0
+color 255 0 0
+
+*END
+
+*BEGIN TREE fold_name
+name rh_SM-In_1
+color 0 255 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TPol-In
+
+*BEGIN TREE fold_name
+name g1
+
+*BEGIN TREE fold_name
+name rh_TPol-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*BEGIN TREE fold_name
+name rh_TT-In
+
+*BEGIN TREE fold_name
+name g2
+
+*BEGIN TREE fold_name
+name rh_TT-In_0
+color 255 0 0
+
+*END
+
+*END
+
+*END
+
+*END
+
+*END
+
+*END
+
+*END
