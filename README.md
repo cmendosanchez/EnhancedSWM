@@ -60,7 +60,7 @@ python3 main.py --in_data Data/Tractogram_MNI.tck --extension tck --out_dir Ex_s
 ### Resulting folders
 * `--out_dir` folder containing the segmented short fiber bundles
 * `Filtered_bundles_${selected filter}_${format tck/trk/}` folder contatining the filtered short fiber bundles. By default a folder with .bundles format is generated for I/O operations.
-* `MFF` folder contatining the main fiber fascicles (if `--MFF 1`)
+* `MFF` folder containing the main fiber fascicles (if `--MFF 1`)
 * `Filtered_MFF_${selected filter}` folder contatining the filtered main fiber fascicles (if `--MFF 1`)
 
 If the indices of the fibers with respect to the orignal tractogram are needed, these are provided in the respective '_idx' folder. Resulting fiber bundles have 21 equidistand points.
