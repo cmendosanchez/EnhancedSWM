@@ -72,6 +72,8 @@ python3 main.py --in_data Data/Tractogram_MNI.tck --extension tck --out_dir Ex_s
 If the indices of the fibers with respect to the orignal tractogram are needed, these are provided in the respective '_idx' folder. Resulting fiber bundles have 21 equidistand points.
 
 ### Fiber bundle filter is applied to a folder of fiber bundles with custom parameters.
+Fiber bundles must have 21 points, if your data is in .tck you can use tckresample (https://mrtrix.readthedocs.io/en/3.0.4/reference/commands/tckresample.html) or dipy set_number_of_points function (https://dipy.org/documentation/1.4.1./reference/dipy.tracking/#set-number-of-points).
+
 ```
 python3 main.py --in_folder input_folder --extension --filter filter_number --p1 --p2
 ```
