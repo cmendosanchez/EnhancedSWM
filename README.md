@@ -17,7 +17,7 @@ The enhanced short fiber bundle segmentation can be done in two ways:
 
 Also, a folder with segmented fiber bundles can be provided to apply a fiber bundle filter with custom parameters.
 
-## Dependencies
+## Dependencies 
 
 - C++ compiler
 - Ubuntu 18.04.6 LTS
@@ -29,6 +29,12 @@ Also, a folder with segmented fiber bundles can be provided to apply a fiber bun
 - Scikit-learn >= 1.0.2
 - Nibabel >= 3.2.2
 - Joblib >= 1.1.0
+
+## Quick install
+
+```
+git clone https://github.com/cmendosanchez/EnhancedSWM.git
+```
   
 ## Use example
 ### Fiber bundle segmentation + Fiber bundle filter is applied.
@@ -38,7 +44,7 @@ python3 main.py --in_data input --extension extension --out_dir out_dir --filter
 * `--in_data` input tractogram in MNI space (tck/trk/bundles)
 * `--extension` extension of tractogram (tck/trk/bundles)
 * `--out_dir` name of the folder containing the segmented fiber bundles
-* `--filter` selection of fiber bundle filter (1: Connectivity Pattern, 2: SSPD, 3: Fiber Consistency, 4: Convex Hull)
+* `--filter` integer defining a fiber bundle filter (1: Connectivity Pattern, 2: SSPD, 3: Fiber Consistency, 4: Convex Hull)
   
 ### Fiber bundle segmentation + Fiber bundle filter are applied & Main fiber fascicle identification + Fiber bundle filter are applied.
 ```
@@ -47,7 +53,7 @@ python3 main.py --in_data input --extension extension --out_dir out_dir --filter
 * `--in_data` input tractogram in MNI space (tck/trk/bundles)
 * `--extension` extension of tractogram (tck/trk/bundles)
 * `--out_dir` name of the folder containing the output files
-* `--filter` integer defining a fiber bundle filter  (1: Connectivity Pattern, 2: SSPD, 3: Fiber Consistency, 4: Convex Hull)
+* `--filter` integer defining a fiber bundle filter (1: Connectivity Pattern, 2: SSPD, 3: Fiber Consistency, 4: Convex Hull)
 * `--MFF` apply main fiber fascicle identification and fiber bundle filtering. 1: True 0: False (default False)
 
 #### Execution with example tractogram
