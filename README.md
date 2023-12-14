@@ -90,6 +90,19 @@ python3 main.py --in_folder Bundles/Seg --extension tck --filter 4 --p1 20 --p2 
 ```
 will apply the fiber bundle filter based on the Convex Hull, discarding 20% of the fibers and using $K_{p}=80$.
 
+## Performance
+
+The time (minutes) to perform the short fiber bundle segmentation in a tractogram of 3 millions steamlines, using a desktop computer with an AMD Ryzen 9 5900X 12-Core processor. If data is provided in .tck or .trk file format, then it could take longer due to data conversion to .bundles format and I/O operations. Due to the high computational cost of the SSPD distance, the filtering of a high number of fiber bundles could take several hours.
+
+| 		         | MFF = 0  | MFF = 1 |
+| ------------- |:-------------:| -----:|
+| Connectivity Patterns | 2.50 | 2.84 |
+| SSPD | - | - |
+| Fiber Consistency | 3.86 | 5.64|
+| Convex Hull| 3.14 | 3.68|
+
+
+
 ## References
 [1] A. Vázquez, N. López-López, N. Labra, M. Figueroa, C. Poupon, J.-F. Mangin, C. Hernández,
 and P. Guevara, “Parallel optimization of fiber bundle segmentation for massive tractography
