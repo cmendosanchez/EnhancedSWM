@@ -60,7 +60,7 @@ python3 main.py --in_data input --extension extension --out_dir out_dir --filter
 An example tractogram in MNI space can be download from [here](https://drive.google.com/drive/folders/1p-aP8NzO2S3VezMRTGIudy5wwIoPhvuc?usp=sharing) (available in tck/trk/bundles format).
 
 ```
-python3 main.py --in_data Data/Tractogram_MNI.tck --extension tck --out_dir Ex_seg/Seg --filter_number 4 --MFF 1
+python3 main.py --in_data Data/Tractogram_MNI.tck --extension tck --out_dir Ex_seg/Seg --filter 4 --MFF 1
 ```
 
 ### Resulting folders
