@@ -12,8 +12,8 @@ Four fiber bundle filters are available to remove spurious fibers from an automa
 - Convex Hull (Recommended)
 
 The enhanced short fiber bundle segmentation can be done in two ways:
-- Fiber bundle segmentation + Fiber bundle filter are applied.
-- Fiber bundle segmentation + Fiber bundle filter are applied & Main fiber fascicles identification + Fiber bundle filter are applied.
+- Fiber bundle segmentation + Fiber bundle filter is applied.
+- Fiber bundle segmentation + Main fiber fascicle identification + Fiber bundle filter is applied.
 
 Also, a folder with segmented fiber bundles can be provided to apply a fiber bundle filter with custom parameters.
 
