@@ -46,7 +46,7 @@ python3 main.py --in_data input --extension extension --out_dir out_dir --filter
 * `--out_dir` name of the folder containing the segmented fiber bundles
 * `--filter` integer defining a fiber bundle filter (1: Connectivity Pattern, 2: SSPD, 3: Fiber Consistency, 4: Convex Hull)
   
-### Fiber bundle segmentation + Fiber bundle filter are applied & Main fiber fascicle identification + Fiber bundle filter are applied.
+### Fiber bundle segmentation + Fiber bundle filter is applied & Main fiber fascicle identification + Fiber bundle filter is applied.
 ```
 python3 main.py --in_data input --extension extension --out_dir out_dir --filter filter_number --MFF 1
 ```
